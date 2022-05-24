@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 4a3812fc0e291bf4a9bf4209cb668e82
+timeCreated: 1552181652
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Muru_Head0
+    21300002: Muru_Head1
+    21300004: Muru_Head2
+    21300006: Neru_Head3
+    21300008: Muru_Gun
+    21300010: Neru_Gun1
+    21300012: Muru_Pelvis
+    21300014: Muru_ArmFU
+    21300016: Muru_ArmFL
+    21300018: Muru_LegFU
+    21300020: Muru_LegFL
+    21300022: Muru_LegBU
+    21300024: Muru_LegBL
+    21300026: Muru_Gunfire
+    21300028: Muru_ArmBU
+    21300030: Muru_ArmBL
+    21300032: Muru_Bullet
+    21300034: Neru_Grenade
+    21300036: Muru_Hand
+    21300038: Muru_Foot0
+    21300040: Muru_Foot1
+    21300042: Muru_Hair
+    21300044: Muru_Chest
+    21300046: Neru_Flame
+    21300048: Breasts
+    21300050: Muru_Blade0
+    21300052: Muru_Shield
+    21300054: Muru_Blade1
+    21300056: Muru_Slash
+    21300058: Muru_Sting
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 128
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muru_Head0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Head1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 28
+        width: 5
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 28
+        width: 5
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_LegFU
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 11
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_LegFL
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.59, y: 0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_LegBU
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_LegBL
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.59, y: 0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 5
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 5
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Hand
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Foot0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.37, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Foot1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.27, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Hair
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 37
+        height: 65
+      alignment: 9
+      pivot: {x: 0.57, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Chest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.69, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Breasts
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Blade0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 70
+        height: 7
+      alignment: 9
+      pivot: {x: 0.15, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Blade1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 70
+        height: 5
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Muru_Slash
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 48
+        width: 57
+        height: 80
+      alignment: 9
+      pivot: {x: 0.64, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
